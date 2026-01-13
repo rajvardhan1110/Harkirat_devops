@@ -41,7 +41,7 @@ You do **NOT** manage:
 
 ---
 
-### ⭐ Key Characteristics
+###  Key Characteristics
 
 * ✅ No server management
 * ✅ Auto-scaling
@@ -179,7 +179,7 @@ Your app is now live 🌍
 
 ---
 
-## ⚡ 5. What is Hono?
+## 5. What is Hono?
 
 **Hono** is a small, fast web framework designed specifically for **edge runtimes** like:
 
@@ -188,7 +188,7 @@ Your app is now live 🌍
 * Bun
 * Vercel Edge Functions
 
-👉 Think of **Hono** as *"Express for Cloudflare Workers"*, but built **correctly** for them.
+> Think of **Hono** as *"Express for Cloudflare Workers"*, but built **correctly** for them.
 
 **Simple definition:**
 
@@ -222,7 +222,7 @@ const http = require("http");
 
 ---
 
-## ⚙️ 7. Cloudflare Workers Runtime
+##  7. Cloudflare Workers Runtime
 
 Workers use **Web Standard APIs**, same as browsers:
 
@@ -236,7 +236,7 @@ Workers use **Web Standard APIs**, same as browsers:
 
 ---
 
-## ✅ 8. Why Hono Works on Cloudflare Workers
+##  8. Why Hono Works on Cloudflare Workers
 
 Hono is built on the **Web Fetch API**, not Node APIs.
 
@@ -250,7 +250,7 @@ So it runs **perfectly** inside Workers.
 
 ---
 
-## 🔁 9. Express vs Hono
+##  9. Express vs Hono
 
 | Feature            | Express | Hono           |
 | ------------------ | ------- | -------------- |
@@ -263,7 +263,7 @@ So it runs **perfectly** inside Workers.
 
 ---
 
-## 🧪 10. Express vs Hono Example
+##  10. Express vs Hono Example
 
 ###  Express (Will NOT work)
 
