@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ecom-backend-config
+data:
+  database_url: "mysql://ecom-db:3306/shop"
