@@ -50,7 +50,7 @@ kubectl describe configmap ecom-backend-config
 
 ---
 
-## 🔌 Using ConfigMap in a Deployment (Environment Variables)
+##  Using ConfigMap in a Deployment (Environment Variables)
 
 ```yaml
 env:
