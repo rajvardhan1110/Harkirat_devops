@@ -56,6 +56,8 @@ Example:
 5. API Server provides data  
 6. HPA Controller decides scaling  
 
+![alt text](image.png)
+
 ---
 
 # ✅ Components
